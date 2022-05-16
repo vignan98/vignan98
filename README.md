@@ -13,7 +13,7 @@
 I am Currently Pursuing Masters in Data Analytics Engineering from Northeastern University, Boston. I have 1 year experience working on a Data Science Application called Dataiku at Ericsson. Also, as a Data Science Intern at IIT Kanpur, I worked on a Machine learning Project to predict droupout rates. During my masters, I enrolled in course like Machine Learning for Engineering, Deep Learning and Neural Networks that cover the in-depth mathematics behind the Algorithms. Also, with few of the projects I gained hands-on experience of working on Data Science Projects
 
 
-![download (1)](https://user-images.githubusercontent.com/84727716/168519511-89eac8a2-35de-440b-827e-b84a9fb6bb6a.jpg)
+![photo-1616763355548-1b606f439f86](https://user-images.githubusercontent.com/84727716/168519807-e63c2901-dc4a-425c-9f77-e94e6b6442b9.jpg)
 
 
 
