@@ -7,4 +7,6 @@
 - 💬 Ask me about Data Science, Statistics, ML
 - 📫 How to reach me: Linkedin - Vignan Vennampally
 - 😄 Pronouns: He/Him
+- Linkedin : [www.linkedin.com/in/vignan-vennampally]
+-
 
