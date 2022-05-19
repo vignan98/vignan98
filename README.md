@@ -1,6 +1,6 @@
 # 💥 Hi there, I'm Vignan Vennampally 👋
 
-![photo-1616763355548-1b606f439f86](<iframe src="https://giphy.com/embed/lhIDOMwDneBJbAoQJk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/kreativv-business-wfh-workfromhome-lhIDOMwDneBJbAoQJk">via GIPHY</a></p>)
+![photo-1616763355548-1b606f439f86](https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif)
 
 
 ## ✍️ ABOUT ME 💼
