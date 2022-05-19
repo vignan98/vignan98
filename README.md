@@ -5,7 +5,7 @@
 - 🧑‍🎓 I'm currently pursuing Masters in Data Analytics
 - 👬 I’m looking to collaborate on Python, ML Projects
 - 💬 Ask me about Data Science, Statistics, ML
-- 📫 How to reach me: LinkedIn [Vignan Vennampally](www.linkedin.com/in/vignan-vennampally)
+- 📫 How to reach me: LinkedIn [Vignan Vennampally](https://www.linkedin.com/in/vignan-vennampally/)
 - 😄 Pronouns: He/Him
 
 ## ABOUT ME
