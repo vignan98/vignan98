@@ -26,6 +26,8 @@ The first programming language i was introduced is **C**. I followed the famous 
    <img src = "https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title ="neo4j" alt= "neo4j" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title ="R" alt= "R" width ="50" height ="50"/>&nbsp
 </div>
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 
 ## :fire: My Stats :
