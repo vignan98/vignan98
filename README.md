@@ -1,5 +1,7 @@
 # 💥 Hi there, I'm Vignan Vennampally 👋
 
+![photo-1616763355548-1b606f439f86](https://user-images.githubusercontent.com/84727716/168519807-e63c2901-dc4a-425c-9f77-e94e6b6442b9.jpg)
+
 
 ## ✍️ ABOUT ME 💼
 I am Master's in Data Analytics Student from 🏫 Northeastern University, Boston 🇺🇸
@@ -7,9 +9,6 @@ I am Master's in Data Analytics Student from 🏫 Northeastern University, Bosto
    - 🕵️‍♂️ Love exploring technical writings & blogs
    - ⌛ In my free time I solve leetcode problems
    - 🙋‍♂️Reach me at : LinkedIn [Vignan Vennampally] (https://www.linkedin.com/in/vignan-vennampally/), 📞: 8574539100, 📧: vennampally.v@northeastern.edu
-
-
-![photo-1616763355548-1b606f439f86](https://user-images.githubusercontent.com/84727716/168519807-e63c2901-dc4a-425c-9f77-e94e6b6442b9.jpg)
 
 
 
