@@ -18,5 +18,7 @@ The first programming language i was introduced is **C**. I followed the famous 
 
 <div> 
    <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PYTHON" width="50" height="50"/>&nbsp;
-   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PYTHON" width="50" height="50"/>&nbsp
+   <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+   <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title ="Java" alt="Java" width="50" height ="50"/>&nbsp
 </div>
