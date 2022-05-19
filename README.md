@@ -23,5 +23,6 @@ The first programming language i was introduced is **C**. I followed the famous 
    <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title ="Java" alt="Java" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt= "Docker" width="50" height = "50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="Mysql" alt = "Mysql" width="50" height ="50"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title ="neo4j" alt= "neo4j" width="50" height ="50"/>&nbsp
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title ="neo4j" alt= "neo4j" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title ="R" alt= "R" width ="50" height ="50"/>&nbsp
 </div>
