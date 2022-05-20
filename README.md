@@ -34,4 +34,8 @@ The first programming language i was introduced is **C**. I followed the famous 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vignan98&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+[![Badge](https://github-readme-stats.vercel.app/api?username={vignan98})]
+
+
+
 
