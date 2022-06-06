@@ -37,7 +37,6 @@ The first programming language i was introduced is **C**. I followed the famous 
 <body>
 <!--StartFragment-->
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={vignan98}
 --
 
 
