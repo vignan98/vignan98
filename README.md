@@ -7,7 +7,7 @@
 I am a Master's in Data Analytics Student from 🏫 Northeastern University, Boston 
    - 💻 I work on Data Science & Machine Learning Projects
    - 🕵️‍♂️ Love exploring technical writings & blogs
-   - ⌛ In my free time I solve leetcode problems
+   - ⌛ In my free time I solve Programming Questions in Python (https://auth.geeksforgeeks.org/user/vignanven0jsj/practice)
    - 🙋‍♂️Reach me at : LinkedIn [Vignan Vennampally](https://www.linkedin.com/in/vignan-vennampally/), 📞: 8574539100, 📧: vennampally.v@northeastern.edu
 
 
